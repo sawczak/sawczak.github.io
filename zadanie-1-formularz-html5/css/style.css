@@ -18,18 +18,13 @@ form label {
     display: block;
 }
 
-
-form input[type="text"], form input[type="email"], form input[type="tel"], form select, form textarea[name="wiadomosc"] {
+form input[type="text"], form input[type="email"], form input[type="tel"], form select, form textarea[name="message"] {
     width: 300px;
     height: 25px;
     background-color: #cc99ff;
     border-color; #cc99ff;
     border: 4px;
     outline: none;
-    color: white;
-}
-
-form select {
     color: white;
 }
 
