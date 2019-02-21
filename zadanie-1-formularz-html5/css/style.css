@@ -37,10 +37,9 @@ input:focus {
     color: white;
 }
 
-form input[type="radio"] {
+form label[for*="male"] {
     display: inline;
-    margin-bottom: 10px;
-}
+} 
 
 form input[type="checkbox"], form label[for="agreement"] {
     display: inline;
