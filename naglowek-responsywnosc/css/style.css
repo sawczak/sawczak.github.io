@@ -56,7 +56,6 @@ body {
         background-position: center;
         background-size: cover;
         background-repeat: no-repeat;
-        height: 100%;
         position: absolute;
     }
 
@@ -85,7 +84,7 @@ body {
     .main-header h1, span {
         color: black;
         text-align: center;
-        padding-top: 340px;
+        padding-top: 50%;
     }
 
 } 
