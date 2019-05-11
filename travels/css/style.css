@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    color: #333;
+}
+
+hr {
+    height: 1vh; 
+    width: 100vw;;
+    border-style: solid;
+    border-color: #067c2a;
+    border-width: 8px 0 0 0;
+    position: center;
+}
+
+.main-nav {
+
+
+}
+
+.main-header {
+    background-image: url("../img/header.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 80vh;
+    width: 100vw;
+    position: relative;
+}
+
+.main-header h1 {
+    font-size: 3em;
+    color: #ffffff;
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 200px;
+    margin: 0;
+}
